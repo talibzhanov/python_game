@@ -1,5 +1,3 @@
-from typing import List, Tuple
-
 import pygame
 from random import randrange as rnd
 
